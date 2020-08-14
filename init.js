@@ -1,4 +1,4 @@
-const LIBROS_URL = "https://github.com/Kafka993/oiraiD/librosj.json";
+const LIBROS_URL = "https://github.com/Kafka993/oiraiD/blob/master/librosj.json"
 
 
 var getJSONData = function (url) {
