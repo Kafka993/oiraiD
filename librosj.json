@@ -5,7 +5,7 @@
         "titulo": "Los Hombres que no amaban a las mujeres",
         "Genero": "Novela Negra",
         "Estrellas": "5/5",
-        "imgSrc": "portada/1.jpg",
+        "Portada": "portada/1.jpg",
         "paginas": "665",
         "editorial": "Destino"
     },
@@ -15,7 +15,7 @@
         "titulo": "Ensayo sobre la ceguera",
         "Genero": "Ensayo",
         "Estrellas": "5/5",
-        "imgSrc": "portada/2.jpg",
+        "Portada": "portada/2.jpg",
         "paginas": "665**",
         "editorial": "De Bolsillo"
     },

@@ -1,26 +1,37 @@
 var librosArray = [];
 
-function showLibros(array) { 
 
+
+function showLibros(array) { 
     let contenido = "";
     for (let i = 0; i < array.length; i++) {
         let libro = array[i];
 
-        contenido += libro.Portada + '<br>';
-        contenido += 'Título: ' + libro.titulo + '<br>';
-        contenido += 'Autor: ' + libro.Autor + '<br>';
-        contenido += 'Género: ' + libro.Genero + '<br>';
-        contenido += 'Estrellas: ' + libro.Estrellas + '<br>';
-        contenido += 'Páginas: ' + libro.paginas + '<br>';
-        contenido += 'Editorial: ' + libro.editorial + '<br>';
-        contenido += '<br><hr><br>'
-        
+    htmlContentToAppend += `
+    <div class="list-group-item list-group-item-action">
+        <div class="row">
+            <div class="col-3">
+                <img src="` + libro.portada + `" alt="` + libro.titulo + `" class="img-thumbnail">
+            
+                </div>
+            <div class="col">
+                <div class="d-flex w-100 justify-content-between">
+                    <h4 class="mb-1">`+ libro.titulo +`</h4>
+                    <p class="mb-1"> `+ libro.Autor +`</p>
+                    <small class="text-muted">` + "Genero: " + " " + libro.Genero   +" "+ libro.paginas + ` </small>
+                    <small class="text-muted">` + libro.Estrellas  + ` Estrellas </small>
+                    <small class="text-muted">` + libro.editorial  + `</small>
+                    
+                </div>
 
+            </div>
+        </div>
+    </div>
+    `
 
         document.getElementById("listado").innerHTML = contenido;
     }
 } 
-
 
 document.addEventListener("DOMContentLoaded", function (e) {
     getJSONData(LIBROS_URL).then(function (resultObj) {
