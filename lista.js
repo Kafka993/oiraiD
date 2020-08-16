@@ -16,9 +16,8 @@ function showLibros(array) {
                 </div>
             <div class="col">
                 <div class="d-flex w-100 justify-content-between">
-                    <h4 class="mb-1">`+ libro.titulo +`</h4>
-                    <p class="mb-1"> `+ libro.Autor +`</p>
-                    <small class="text-muted">` + "Genero: " + " " + libro.Genero   +" "+ libro.paginas + ` </small>
+                    <h4 class="mb-1">` + libro.titulo +`</h4>
+                    <small class="text-muted">` + "Genero: " + " " + libro.Genero   +" "+ "Páginas: " + libro.paginas + ` </small>
                     <small class="text-muted">` + libro.Estrellas  + ` Estrellas </small>
                     <small class="text-muted">` + libro.editorial  + `</small>
                     
