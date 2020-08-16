@@ -34,7 +34,7 @@
         "titulo": "Sin un Peso en París y Londres",
         "Genero": "Biografia",
         "Estrellas": "5/5",
-        "Portada": "portada/4.png",
+        "imgSrc": "portada/4.png",
         "paginas": "222",
         "editorial": "Debate"
     },
@@ -44,7 +44,7 @@
         "titulo": "El Viejo y el Mar",
         "Genero": "Novela corta",
         "Estrellas": "5/5",
-        "Portada": "portada/5.jpg",
+        "imgSrc": "portada/5.jpg",
         "paginas": "127",
         "editorial": "Lucemar"
     },
@@ -55,7 +55,7 @@
         "titulo": "After Dark",
         "Genero": "Novela corta",
         "Estrellas": "5/5",
-        "Portada": "portada/8.jpg",
+        "imgSrc": "portada/8.jpg",
         "paginas": "665***",
         "editorial": "TusQuets"
         },
@@ -65,7 +65,7 @@
             "titulo": "Kafka en la Orilla",
             "Genero": "Realismo Magico",
             "Estrellas": "5/5",
-            "Portada": "portada/6.jpg",
+            "imgSrc": "portada/6.jpg",
             "paginas": "714",
             "editorial": "TusQuets"
         },
@@ -75,7 +75,7 @@
         "titulo": "La chica del cumpleaños",
         "Genero": "Cuento",
         "Estrellas": "4.5/5",
-        "Portada": "portada/7.jpg",
+        "imgSrc": "portada/7.jpg",
         "paginas": "78",
         "editorial": "TusQuets"
         },
@@ -85,7 +85,7 @@
             "titulo": "El gran Gatsby",
             "Genero": "Novela",
             "Estrellas": "3/5",
-            "Portada": "portada/9.jpg",
+            "imgSrc": "portada/9.jpg",
             "paginas": "317",
             "editorial": "Plutón"
         },
@@ -95,7 +95,7 @@
             "titulo": "La muerte del comendador #1",
             "Genero": "Realismo Magico",
             "Estrellas": "4/5",
-            "Portada": "portada/10.jpg",
+            "imgSrc": "portada/10.jpg",
             "paginas": "476",
             "editorial": "TusQuets"
         },
@@ -105,7 +105,7 @@
             "titulo": "La hija del clérigo",
             "Genero": "Realismo",
             "Estrellas": "5/5",
-            "Portada": "portada/11.jpg",
+            "imgSrc": "portada/11.jpg",
             "paginas": "361",
             "editorial": "Lumen"
         },
@@ -115,7 +115,7 @@
             "titulo": "La muerte del comendador #2",
             "Genero": "Realismo Magico",
             "Estrellas": "4/5",
-            "Portada": "portada/12.jpg",
+            "imgSrc": "portada/12.jpg",
             "paginas": "361",
             "editorial": "TusQuets"
         },
@@ -125,7 +125,7 @@
             "titulo": "El Principito",
             "Genero": "Ninos",
             "Estrellas": "5/5",
-            "Portada": "portada/13.jpg",
+            "imgSrc": "portada/13.jpg",
             "paginas": "111",
             "editorial": "El País"
         },
@@ -135,7 +135,7 @@
             "titulo": "Cinco esquinas",
             "Genero": "Novela",
             "Estrellas": "3/5",
-            "Portada": "portada/14.jpg",
+            "imgSrc": "portada/14.jpg",
             "paginas": "313",
             "editorial": "De Bolsillo"
         },
@@ -145,7 +145,7 @@
             "titulo": "Un yanqui en la corte del Rey Arturo",
             "Genero": "Novela",
             "Estrellas": "5/5",
-            "Portada": "portada/15.jpg",
+            "imgSrc": "portada/15.jpg",
             "paginas": "316",
             "editorial": "De Bolsillo"
         },
@@ -155,7 +155,7 @@
             "titulo": "Un lugar llamado Antaño",
             "Genero": "Novela",
             "Estrellas": "5/5",
-            "Portada": "portada/16.jpg",
+            "imgSrc": "portada/16.jpg",
             "paginas": "257",
             "editorial": "Anagrama"
         },
@@ -165,7 +165,7 @@
             "titulo": "Los juegos del hambre",
             "Genero": "Distopia",
             "Estrellas": "4/5",
-            "Portada": "portada/17.jpg",
+            "imgSrc": "portada/17.jpg",
             "paginas": "396",
             "editorial": "Del Nuevo Extremo"
         },
@@ -175,7 +175,7 @@
             "titulo": "En Llamas",
             "Genero": "Distopia",
             "Estrellas": "4/5",
-            "Portada": "portada/18.jpg",
+            "imgSrc": "portada/18.jpg",
             "paginas": "396",
             "editorial": "Del Nuevo Extremo"
         },
@@ -185,7 +185,7 @@
             "titulo": "Sinsajo",
             "Genero": "Distopia",
             "Estrellas": "3/5",
-            "Portada": "portada/19.jpg",
+            "imgSrc": "portada/19.jpg",
             "paginas": "396",
             "editorial": "Del Nuevo Extremo"
         },
@@ -195,7 +195,7 @@
             "titulo": "It",
             "Genero": "Terror",
             "Estrellas": "4/5",
-            "Portada": "portada/20.jpg",
+            "imgSrc": "portada/20.jpg",
             "paginas": "1502",
             "editorial": "De Bolsillo"
         },
@@ -205,7 +205,7 @@
             "titulo": "22/11/63",
             "Genero": "Ciencia Ficción",
             "Estrellas": "-/5",
-            "Portada": "portada/21.jpg",
+            "imgSrc": "portada/21.jpg",
             "paginas": "858",
             "editorial": "De Bolsillo"
         },
@@ -215,7 +215,7 @@
             "titulo": "Cementerio de animales",
             "Genero": "Horror",
             "Estrellas": "4/5",
-            "Portada": "portada/22.jpg",
+            "imgSrc": "portada/22.jpg",
             "paginas": "480",
             "editorial": "De Bolsillo"
         },
@@ -225,7 +225,7 @@
             "titulo": "Cell",
             "Genero": "Horror",
             "Estrellas": "-/5",
-            "Portada": "portada/23.jpg",
+            "imgSrc": "portada/23.jpg",
             "paginas": "434",
             "editorial": "De Bolsillo"
         },
@@ -235,7 +235,7 @@
             "titulo": "revival",
             "Genero": "Horror",
             "Estrellas": "-/5",
-            "Portada": "portada/24.jpg",
+            "imgSrc": "portada/24.jpg",
             "paginas": "412",
             "editorial": "De Bolsillo"
         },
@@ -245,7 +245,7 @@
             "titulo": "Resplandor",
             "Genero": "Horror",
             "Estrellas": "5/5",
-            "Portada": "portada/25.jpg",
+            "imgSrc": "portada/25.jpg",
             "paginas": "434",
             "editorial": "De Bolsillo"
         },
@@ -255,7 +255,7 @@
             "titulo": "Manfield Park",
             "Genero": "Historica",
             "Estrellas": "3/5",
-            "Portada": "portada/26.jpg",
+            "imgSrc": "portada/26.jpg",
             "paginas": "563",
             "editorial": "Penguin"
         },
@@ -265,7 +265,7 @@
             "titulo": "Cien años de soledad",
             "Genero": "Realismo Magico",
             "Estrellas": "4/5",
-            "Portada": "portada/27.jpg",
+            "imgSrc": "portada/27.jpg",
             "paginas": "563",
             "editorial": "De Bolsillo"
         },
@@ -275,7 +275,7 @@
             "titulo": "El amor en tiempos del cólera",
             "Genero": "Realismo Magico",
             "Estrellas": "4/5",
-            "Portada": "portada/28.jpg",
+            "imgSrc": "portada/28.jpg",
             "paginas": "399",
             "editorial": "Random House"
         },
@@ -285,7 +285,7 @@
             "titulo": "Discurso del Metodo",
             "Genero": "Filosofía",
             "Estrellas": "5/5",
-            "Portada": "portada/29.jpg",
+            "imgSrc": "portada/29.jpg",
             "paginas": "154",
             "editorial": "Pinguin"
         },
@@ -295,7 +295,7 @@
             "titulo": "Los siete pasos hacia el amor",
             "Genero": "Filosofía",
             "Estrellas": "4/5",
-            "Portada": "portada/30.jpg",
+            "imgSrc": "portada/30.jpg",
             "paginas": "189",
             "editorial": "De Bolsillo"
         },
@@ -305,7 +305,7 @@
             "titulo": "La meditación paso a paso",
             "Genero": "Filosofía",
             "Estrellas": "4/5",
-            "Portada": "portada/31.jpg",
+            "imgSrc": "portada/31.jpg",
             "paginas": "201",
             "editorial": "De Bolsillo"
         },
@@ -315,7 +315,7 @@
             "titulo": "Desafios a la libertad",
             "Genero": "Filosofía",
             "Estrellas": "3.5/5",
-            "Portada": "portada/32.jpg",
+            "imgSrc": "portada/32.jpg",
             "paginas": "294",
             "editorial": "Alfaguara"
         },
@@ -325,7 +325,7 @@
             "titulo": "La Ciudad y los Perros",
             "Genero": "Novela",
             "Estrellas": "-/5",
-            "Portada": "portada/33.jpg",
+            "imgSrc": "portada/33.jpg",
             "paginas": "608",
             "editorial": "Alfaguara"
         },
@@ -335,7 +335,7 @@
             "titulo": "Conversación en la catedral",
             "Genero": "Novela",
             "Estrellas": "3.5/5",
-            "Portada": "portada/33.jpg",
+            "imgSrc": "portada/33.jpg",
             "paginas": "726",
             "editorial": "De bolsillo"
         },
@@ -345,7 +345,7 @@
             "titulo": "Los errantes",
             "Genero": "Novela",
             "Estrellas": "4/5",
-            "Portada": "portada/35.jpg",
+            "imgSrc": "portada/35.jpg",
             "paginas": "257***",
             "editorial": "Anagrama"
         },
@@ -355,7 +355,7 @@
             "titulo": "Moby Dick",
             "Genero": "Novela",
             "Estrellas": "5/5",
-            "Portada": "portada/36.jpg",
+            "imgSrc": "portada/36.jpg",
             "paginas": "736",
             "editorial": "Penguin"
         },
@@ -365,7 +365,7 @@
             "titulo": "Los días de Birmania",
             "Genero": "Novela",
             "Estrellas": "4/5",
-            "Portada": "portada/37.jpg",
+            "imgSrc": "portada/37.jpg",
             "paginas": "321",
             "editorial": "De Bolsillo"
         },
@@ -375,7 +375,7 @@
             "titulo": "La República",
             "Genero": "Filosofía",
             "Estrellas": "4/5",
-            "Portada": "portada/38.jpg",
+            "imgSrc": "portada/38.jpg",
             "paginas": "680",
             "editorial": "Alianza"
         },
@@ -385,7 +385,7 @@
             "titulo": "El AntiCristo",
             "Genero": "Filosofía",
             "Estrellas": "4/5",
-            "Portada": "portada/39.jpg",
+            "imgSrc": "portada/39.jpg",
             "paginas": "183",
             "editorial": "Alianza"
         },
@@ -395,7 +395,7 @@
             "titulo": "Mas allá del bien y del mal",
             "Genero": "Filosofía",
             "Estrellas": "4/5",
-            "Portada": "portada/40.jpg",
+            "imgSrc": "portada/40.jpg",
             "paginas": "183",
             "editorial": "Alianza"
         },
@@ -405,7 +405,7 @@
             "titulo": "Ágil Mente",
             "Genero": "AutoAyuda",
             "Estrellas": "3/5",
-            "Portada": "portada/42.jpg",
+            "imgSrc": "portada/42.jpg",
             "paginas": "386",
             "editorial": "Sudamericana"
         },
@@ -415,7 +415,7 @@
             "titulo": "En Cambio",
             "Genero": "AutoAyuda",
             "Estrellas": "3/5",
-            "Portada": "portada/41.jpg",
+            "imgSrc": "portada/41.jpg",
             "paginas": "441",
             "editorial": "Sudamericana"
         },
@@ -425,7 +425,7 @@
             "titulo": "Cumbres Borrascosas",
             "Genero": "Historico",
             "Estrellas": "-/5",
-            "Portada": "portada/43.jpg",
+            "imgSrc": "portada/43.jpg",
             "paginas": "444",
             "editorial": "Alfaguara"
         },
@@ -435,7 +435,7 @@
             "titulo": "Steve Jobs",
             "Genero": "Biografía",
             "Estrellas": "5/5",
-            "Portada": "portada/44.jpg",
+            "imgSrc": "portada/44.jpg",
             "paginas": "736",
             "editorial": "Debate"
         },
@@ -445,7 +445,7 @@
             "titulo": "El proceso",
             "Genero": "Novela",
             "Estrellas": "3.5/5",
-            "Portada": "portada/45.jpg",
+            "imgSrc": "portada/45.jpg",
             "paginas": "252",
             "editorial": "Plutón"
         },
@@ -455,7 +455,7 @@
             "titulo": "Junta Cadaveres",
             "Genero": "Novela",
             "Estrellas": "-/5",
-            "Portada": "portada/46.jpg",
+            "imgSrc": "portada/46.jpg",
             "paginas": "257",
             "editorial": "Alfa"
         },
@@ -465,7 +465,7 @@
             "titulo": "El arte de amar",
             "Genero": "Filosofia",
             "Estrellas": "3.5/5",
-            "Portada": "portada/47.jpg",
+            "imgSrc": "portada/47.jpg",
             "paginas": "207",
             "editorial": "Paidós"
         },
@@ -475,7 +475,7 @@
             "titulo": "Las siete leyes espirituales del éxito",
             "Genero": "Filosofia",
             "Estrellas": "3/5",
-            "Portada": "portada/48.jpg",
+            "imgSrc": "portada/48.jpg",
             "paginas": "207",
             "editorial": "Paidós"
         },
@@ -486,7 +486,7 @@
         "titulo": "El adquimista",
         "Genero": "Novela",
         "Estrellas": "2.5/5",
-        "Portada": "portada/49.jpg",
+        "imgSrc": "portada/49.jpg",
         "paginas": "189",
         "editorial": "Planeta"
     },
@@ -496,7 +496,7 @@
         "titulo": "Peter Buffett",
         "Genero": "Autoayuda",
         "Estrellas": "3.5/5",
-        "Portada": "portada/50.jpg",
+        "imgSrc": "portada/50.jpg",
         "paginas": "189",
         "editorial": "Oceano"
     },
@@ -506,7 +506,7 @@
         "titulo": "Jorge Luis Borges",
         "Genero": "Literatura",
         "Estrellas": "4/5",
-        "Portada": "portada/51.jpg",
+        "imgSrc": "portada/51.jpg",
         "paginas": "636",
         "editorial": "Alfaguara"
     },
@@ -516,7 +516,7 @@
         "titulo": "Jorge Luis Borges",
         "Genero": "Literatura",
         "Estrellas": "4/5",
-        "Portada": "portada/51.jpg",
+        "imgSrc": "portada/51.jpg",
         "paginas": "636",
         "editorial": "Alfaguara"
     },
@@ -526,7 +526,7 @@
         "titulo": "Émile Zola",
         "Genero": "Naturalismo",
         "Estrellas": "-/5",
-        "Portada": "portada/52.jpg",
+        "imgSrc": "portada/52.jpg",
         "paginas": "411",
         "editorial": "Plutón"
     },
@@ -536,7 +536,7 @@
         "titulo": "El Silmarillon",
         "Genero": "Fantasía",
         "Estrellas": "-/5",
-        "Portada": "portada/54.jpg",
+        "imgSrc": "portada/54.jpg",
         "paginas": "431",
         "editorial": "booket"
     },
@@ -546,7 +546,7 @@
         "titulo": "La sociedad de la nieve",
         "Genero": "Biofrafía",
         "Estrellas": "5/5",
-        "Portada": "portada/53.jpg",
+        "imgSrc": "portada/53.jpg",
         "paginas": "336",
         "editorial": "Sudamericana"
     },
@@ -556,7 +556,7 @@
         "titulo": "Leopardo Negro Lobo Rojo",
         "Genero": "Fantasía",
         "Estrellas": "-/5",
-        "Portada": "portada/55.jpg",
+        "imgSrc": "portada/55.jpg",
         "paginas": "809",
         "editorial": "Seix Barral"
     },
@@ -566,7 +566,7 @@
         "titulo": "Camino de Servidumbre",
         "Genero": "Filosofía",
         "Estrellas": "4/5",
-        "Portada": "portada/57.jpg",
+        "imgSrc": "portada/57.jpg",
         "paginas": "357",
         "editorial": "Alianza"
     },
@@ -576,7 +576,7 @@
         "titulo": "Retórica",
         "Genero": "Filosofía",
         "Estrellas": "-/5",
-        "Portada": "portada/56.jpg",
+        "imgSrc": "portada/56.jpg",
         "paginas": "346",
         "editorial": "Alianza"
     },
@@ -586,7 +586,7 @@
         "titulo": "Regreso a la Montana",
         "Genero": "AutoAyuda",
         "Estrellas": "2.5/5",
-        "Portada": "portada/59.jpg",
+        "imgSrc": "portada/59.jpg",
         "paginas": "200",
         "editorial": "Ediciones B"
     },
@@ -596,7 +596,7 @@
         "titulo": "Como detectar mentiras",
         "Genero": "Psicología",
         "Estrellas": "3/5",
-        "Portada": "portada/57.jpg",
+        "imgSrc": "portada/57.jpg",
         "paginas": "400",
         "editorial": "Paidós"
     },
@@ -606,7 +606,7 @@
         "titulo": "El Conde de Montecristo",
         "Genero": "Literatura",
         "Estrellas": "-/5",
-        "Portada": "portada/60.jpg",
+        "imgSrc": "portada/60.jpg",
         "paginas": "1168",
         "editorial": "Penguin"
     },
@@ -616,7 +616,7 @@
         "titulo": "La economía no da la felicidad",
         "Genero": "Economía",
         "Estrellas": "3/5",
-        "Portada": "portada/61.jpg",
+        "imgSrc": "portada/61.jpg",
         "paginas": "218",
         "editorial": "Plaza Janés"
     },
@@ -626,7 +626,7 @@
         "titulo": "El corazón de las tinieblas",
         "Genero": "Literatura",
         "Estrellas": "-/5",
-        "Portada": "portada/62.jpg",
+        "imgSrc": "portada/62.jpg",
         "paginas": "127",
         "editorial": "Plutón"
     }
