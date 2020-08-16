@@ -1,0 +1,26 @@
+
+.site-header{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(71, 69, 69, 0.986);
+  text-align: center
+  }
+
+.site-header a{
+  color: white;
+  display:inline-block;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-style: solid;
+  border-color: rgb(10, 163, 10) ;
+
+}
+a.navbar-brand {
+  border-style:none ;
+}
+
+a:hover {
+  color:  rgb(10, 163, 10);
+}
