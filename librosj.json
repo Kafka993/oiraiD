@@ -5,7 +5,7 @@
         "titulo": "Los Hombres que no amaban a las mujeres",
         "Genero": "Novela Negra",
         "Estrellas": "5/5",
-        "Portada": "portada/1.jpg",
+        "imgSrc": "portada/1.jpg",
         "paginas": "665",
         "editorial": "Destino"
     },
@@ -15,7 +15,7 @@
         "titulo": "Ensayo sobre la ceguera",
         "Genero": "Ensayo",
         "Estrellas": "5/5",
-        "Portada": "portada/2.jpg",
+        "imgSrc": "portada/2.jpg",
         "paginas": "665**",
         "editorial": "De Bolsillo"
     },
@@ -24,7 +24,7 @@
         "titulo": "Farenheit 451",
         "Genero": "Distopia",
         "Estrellas": "3.5/5",
-        "Portada": "portada/3.jpg",
+        "imgSrc": "portada/3.jpg",
         "paginas": "180",
         "editorial": "De Bolsillo"
     },

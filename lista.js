@@ -3,7 +3,7 @@ var librosArray = [];
 
 
 function showLibros(array) { 
-    let contenido = "";
+    let htmlContentToAppend = "";
     for (let i = 0; i < array.length; i++) {
         let libro = array[i];
 
@@ -11,7 +11,7 @@ function showLibros(array) {
     <div class="list-group-item list-group-item-action">
         <div class="row">
             <div class="col-3">
-                <img src="` + libro.portada + `" alt="` + libro.titulo + `" class="img-thumbnail">
+                <img src="` + libro.imgSrc + `" alt="` + libro.titulo + `" class="img-thumbnail">
             
                 </div>
             <div class="col">
@@ -29,7 +29,7 @@ function showLibros(array) {
     </div>
     `
 
-        document.getElementById("listado").innerHTML = contenido;
+        document.getElementById("listado").innerHTML = htmlContentToAppend;
     }
 } 
 
