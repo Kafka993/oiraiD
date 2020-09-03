@@ -1,37 +1,40 @@
 var librosArray = [];
 
+var buscar = undefined
 
+function verLibro(id) {
+    localStorage.setItem("libro", JSON.stringify({libroId: id}));;
+    window.location = "biblioteca-1.html";
+}
 
 function showLibros(array) { 
     let htmlContentToAppend = "";
     for (let i = 0; i < array.length; i++) {
         let libro = array[i];
+        
+        if (buscar == undefined || libro.titulo.toLowerCase().indexOf(buscar) !=-1) {
 
     htmlContentToAppend += `
-    <div class="list-group-item list-group-item-action">
-        <div class="row">
-            <div class="col-3">
-                <img src="` + libro.imgSrc + `" alt="` + libro.titulo + `" class="img-thumbnail">
-            
-                </div>
-            <div class="col">
-                <div class="d-flex w-100 justify-content-between">
-                    <h4 class="mb-1">` + libro.titulo +`</h4>
-                    <small class="text-muted">` + "Genero: " + " " + libro.Genero   +" "+ "Páginas: " + libro.paginas + ` </small>
-                    <small class="text-muted">` + libro.Estrellas  + ` Estrellas </small>
-                    <small class="text-muted">` + libro.editorial  + `</small>
-                    
+    <div class="row">
+        <div class="col-3">
+                <h4 class="mb-12">`+ libro.titulo +`</h4>
+                <button style="float: right;" onclick="verLibro(`+ libro.id +`)"> Ver libro</button><br>
+                
                 </div>
 
-            </div>
-        </div>
-    </div>
-    `
+        
+</div>
+`
+    
 
+    
+        }
+    
+    
         document.getElementById("listado").innerHTML = htmlContentToAppend;
-    }
-} 
-
+    
+    }  
+}
 document.addEventListener("DOMContentLoaded", function (e) {
     getJSONData(LIBROS_URL).then(function (resultObj) {
         if (resultObj.status === "ok") {
@@ -42,4 +45,18 @@ document.addEventListener("DOMContentLoaded", function (e) {
     });
 
 
-});
+    document.getElementById("search").addEventListener("input", function(){
+        buscar = document.getElementById("search").value.toLowerCase();
+        showLibros(librosArray);
+    
+    });
+    
+    
+    document.getElementById("clean").addEventListener("click", function() {
+        document.getElementById("search").value = ""
+        buscar = undefined;
+        showLibros()
+    
+    });
+    
+    });
