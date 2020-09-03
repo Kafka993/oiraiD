@@ -12,18 +12,17 @@ function showLibros(array) {
     for (let i = 0; i < array.length; i++) {
         let libro = array[i];
         
-        if (buscar == undefined || libro.titulo.toLowerCase().indexOf(buscar) !=-1) {
+        if (buscar == undefined || libro.titulo.toLowerCase().indexOf(buscar) !=-1 || libro.Autor.toLowerCase().indexOf(buscar) !=-1   ) {
 
     htmlContentToAppend += `
-    <div class="row">
-        <div class="col-3">
-                <h4 class="mb-12">`+ libro.titulo +`</h4>
-                <button style="float: right;" onclick="verLibro(`+ libro.id +`)"> Ver libro</button><br>
-                
-                </div>
+    <div class="list-group-item list-group-item-action">
+    <div class="row row-cols-2">
 
-        
-</div>
+    <div class="col-4"><h4 class="mb-4">`+ libro.titulo +`</h4></div>><br>
+    <div class="col-4"><h5 class="mb-4"> ${libro.Autor}</h5></div><br>
+<div class="col-3"><button style="float: right;" onclick="verLibro(`+ libro.id +`)"> Ver libro</button></div><br>
+                
+</div></div>
 `
     
 

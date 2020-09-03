@@ -22,11 +22,13 @@ if (libro.id == verLibro.libroId) {
             
                 </div>
             <div class="col">
-                <div class="d-flex w-100 justify-content-between">
-                    <h4 class="mb-1">` + libro.titulo +`</h4>
-                    <small class="text-muted">` + "Genero: " + " " + libro.Genero   +" "+ "Páginas: " + libro.paginas + ` </small>
-                    <small class="text-muted">` + libro.Estrellas  + ` Estrellas </small>
-                    <small class="text-muted">` + libro.editorial  + `</small>
+                    <h4 class="mb-3">` + libro.titulo +`</h4> <br> <br>
+                    <h6 class="mb-2"> Autor: ${libro.Autor} <h6> 
+                    <h6 class="mb-2">` + "Genero: " + " " + libro.Genero   +" <br> <br> "+ "Páginas: " + libro.paginas + ` </h6> <br>
+                    <h6 class="mb-2">` + libro.Estrellas  + ` Estrellas </h6> <br>
+                    <h6 class="mb-2">` + libro.editorial  + `</h6> <br> <br>
+                    
+                    </div></div></div>
 
                     `
 
