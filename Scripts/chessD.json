@@ -3,10 +3,10 @@
         "id": "1",
         "Fecha": "4/09/2020",
         "Puzzle": "1062",
-        "Puzzle-Rush": "8",
-        "Puzzle-Lichess": "NO",
-        "ELO-Inicio": "925",
-        "ELO-Final": "933",
+        "PuzzleRush": "8",
+        "PuzzleLichess": "NO",
+        "ELOInicio": "925",
+        "ELOFinal": "933",
         "Partidas": "kafka993_vs_am_it_2020.09.03.png"
     },
     {
