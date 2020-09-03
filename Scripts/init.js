@@ -1,5 +1,5 @@
 const LIBROS_URL = "https://kafka993.github.io/oiraiD/librosj.json"
-
+const CHESS_URL =
 
 var getJSONData = function (url) {
   var result = {};

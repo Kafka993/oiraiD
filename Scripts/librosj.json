@@ -629,6 +629,47 @@
         "imgSrc": "portada/62.jpg",
         "paginas": "127",
         "editorial": "Plutón"
+    },
+    {
+        "id": "63",
+        "Autor": "J.M.Barrie",
+        "titulo": "Peter y Wendy",
+        "Genero": "Literatura",
+        "Estrellas": "2.5/5",
+        "imgSrc": "portada/63.jpg",
+        "paginas": "218",
+        "editorial": "Penguin"
+    },
+    {
+        "id": "64",
+        "Autor": "Homero",
+        "titulo": "Odisea",
+        "Genero": "Literatura",
+        "Estrellas": "-/5",
+        "imgSrc": "portada/64.jpg",
+        "paginas": "446",
+        "editorial": "Penguin"
+    },
+    {
+        "id": "65",
+        "Autor": "F.Dostoievski",
+        "titulo": "Los demonios",
+        "Genero": "Literatura",
+        "Estrellas": "-/5",
+        "imgSrc": "portada/65.jpg",
+        "paginas": "902",
+        "editorial": "Penguin"
+    },
+    {   "id": "66",
+        "Autor": "Charles Dickens ",
+        "titulo": "Great Expectations",
+        "Genero": "Literatura",
+        "Estrellas": "-/5",
+        "imgSrc": "portada/66.jpg",
+        "paginas": "424",
+        "editorial": "Plutón ediciones"
+
+
     }
         
     ]
