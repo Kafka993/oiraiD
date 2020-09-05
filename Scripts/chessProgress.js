@@ -6,7 +6,7 @@ var to = undefined
 
 function verGames(id) {
     localStorage.setItem("games", JSON.stringify({gamesId: id}));;
-    window.location = "Chessgamess.html";
+    window.location = "ChessGames.html";
 }
 
 function showData(array) { 
@@ -23,13 +23,13 @@ function showData(array) {
     <div class="list-group-item list-group-item-action">
     <div class="row">
 
-    <div class="col-3"><h4 class="mb-3">`+ chess.fecha +`</h4></div>><br>
-    <div class="col-3"><h5 class="mb-3"> ${chess.Puzzle}</h5></div><br>
-    <div class="col-3"><h5 class="mb-3"> ${chess.PuzzleRush}</h5></div><br>
-    <div class="col-3"><h5 class="mb-3"> ${chess.PuzzleLichess}</h5></div><br>
-    <div class="col-3"><h5 class="mb-3"> ${chess.ELOInicio}</h5></div><br>
-    <div class="col-3"><h5 class="mb-3"> ${chess.ELOFinal}</h5></div><br>
-<div class="col-3"><button style="float: right;" onclick="verLibro(`+ chess.id +`)"> Ver Partidas</button></div><br>
+    <div class="col-3"><h4 class="mb-3">Fecha :`+ chess.Fecha +`</h4></div>><br>
+    <div class="col-3"><h5 class="mb-3">Puzzle: ${chess.Puzzle}</h5></div><br>
+    <div class="col-3"><h5 class="mb-3">Puzzle Rush: ${chess.PuzzleRush}</h5></div><br>
+    <div class="col-3"><h5 class="mb-3">PuzzleLichess: ${chess.PuzzleLichess}</h5></div><br>
+    <div class="col-3"><h5 class="mb-3">ELO Inicio ${chess.ELOInicio}</h5></div><br>
+    <div class="col-3"><h5 class="mb-3">ELO Final ${chess.ELOFinal}</h5></div><br>
+<div class="col-3"><button style="float: right;" onclick="games(`+ chess.id +`)"> Ver Partidas</button></div><br>
                 
 </div></div>
 `
