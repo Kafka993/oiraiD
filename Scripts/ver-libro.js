@@ -32,12 +32,12 @@ if (libro.id == verLibro.libroId) {
                     <h4 class="mb-3">` + libro.titulo +`</h4> <br> <br>
                     <h6 class="mb-2"> Autor: ${libro.Autor} <h6> 
                     <h6 class="mb-2">` + "Genero: " + " " + libro.Genero   +" <br> <br> "+ "Páginas: " + libro.paginas + ` </h6> <br> 
-                    <h6 class="mb-2">` + libro.Estrellas  + ` Estrellas </h6> <br>
+                    <h6 class="mb-2"> Calificación ${score}</h6> <br>
                     <h6 class="mb-2">` + libro.editorial  + `</h6> <br> <br>
                     <p class="mb-2"> Para mas información sobre el libro y autor:</p><br>
                     <a href="https://es.wikipedia.org/wiki/${libro.Autor.toLowerCase()}" class="btn btn-outline-success btn-sm"><i class="fa fa-wikipedia-w"> ${libro.Autor}</i></a>
                     <a href="https://es.wikipedia.org/wiki/${libro.titulo.toLowerCase()}" class="btn btn-outline-success btn-sm"><i class="fa fa-wikipedia-w"> ${libro.titulo}</i></a>
-                    <div style="text-align: right;">` + score + `</div><br><hr>
+                    
                     </div></div></div>
 
                     `

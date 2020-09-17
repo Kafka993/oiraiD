@@ -14,7 +14,7 @@
         "Autor": "josé Saramago",
         "titulo": "Ensayo sobre la ceguera",
         "Genero": "Ensayo",
-        "Estrellas": "5/5",
+        "Estrellas": "5",
         "imgSrc": "portada/2.jpg",
         "paginas": "665**",
         "editorial": "De Bolsillo"
@@ -23,7 +23,7 @@
         "Autor": "Ray Bradbury",
         "titulo": "Farenheit 451",
         "Genero": "Distopia",
-        "Estrellas": "3.5/5",
+        "Estrellas": "3.5",
         "imgSrc": "portada/3.jpg",
         "paginas": "180",
         "editorial": "De Bolsillo"
