@@ -35,7 +35,7 @@ if (libro.id == verLibro.libroId) {
                     <h6 class="mb-2"> Calificación ${score}</h6> <br>
                     <h6 class="mb-2">` + libro.editorial  + `</h6> <br> <br>
                     <p class="mb-2"> Para mas información sobre el libro y autor:</p><br>
-                    <a href="https://es.wikipedia.org/wiki/${libro.Autor.toLowerCase()}" class="btn btn-outline-success btn-sm"><i class="fa fa-wikipedia-w"> ${libro.Autor}</i></a>
+                    <a href="https://es.wikipedia.org/wiki/${libro.Autor}" class="btn btn-outline-success btn-sm"><i class="fa fa-wikipedia-w"> ${libro.Autor}</i></a>
                     <a href="https://es.wikipedia.org/wiki/${libro.titulo.toLowerCase()}" class="btn btn-outline-success btn-sm"><i class="fa fa-wikipedia-w"> ${libro.titulo}</i></a>
                     
                     </div></div></div>
