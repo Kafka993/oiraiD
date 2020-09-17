@@ -33,7 +33,7 @@
         "Autor": "George Orwell",
         "titulo": "Sin un Peso en París y Londres",
         "Genero": "Biografia",
-        "Estrellas": "5/5",
+        "Estrellas": "5",
         "imgSrc": "portada/4.png",
         "paginas": "222",
         "editorial": "Debate"
@@ -43,7 +43,7 @@
         "Autor": "Ernest Hemingway",
         "titulo": "El Viejo y el Mar",
         "Genero": "Novela corta",
-        "Estrellas": "5/5",
+        "Estrellas": "5",
         "imgSrc": "portada/5.jpg",
         "paginas": "127",
         "editorial": "Lucemar"
@@ -54,7 +54,7 @@
         "Autor": "Haruki Murakami",
         "titulo": "After Dark",
         "Genero": "Novela corta",
-        "Estrellas": "5/5",
+        "Estrellas": "5",
         "imgSrc": "portada/8.jpg",
         "paginas": "665***",
         "editorial": "TusQuets"
@@ -64,7 +64,7 @@
             "Autor": "Haruki Murakami",
             "titulo": "Kafka en la Orilla",
             "Genero": "Realismo Magico",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/6.jpg",
             "paginas": "714",
             "editorial": "TusQuets"
@@ -74,7 +74,7 @@
         "Autor": "Haruki Murakami",
         "titulo": "La chica del cumpleaños",
         "Genero": "Cuento",
-        "Estrellas": "4.5/5",
+        "Estrellas": "4.5",
         "imgSrc": "portada/7.jpg",
         "paginas": "78",
         "editorial": "TusQuets"
@@ -84,7 +84,7 @@
             "Autor": "F Scott Fitzgerald",
             "titulo": "El gran Gatsby",
             "Genero": "Novela",
-            "Estrellas": "3/5",
+            "Estrellas": "3",
             "imgSrc": "portada/9.jpg",
             "paginas": "317",
             "editorial": "Plutón"
@@ -94,7 +94,7 @@
             "Autor": "Haruki Murakami",
             "titulo": "La muerte del comendador #1",
             "Genero": "Realismo Magico",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/10.jpg",
             "paginas": "476",
             "editorial": "TusQuets"
@@ -104,7 +104,7 @@
             "Autor": "George Orwell",
             "titulo": "La hija del clérigo",
             "Genero": "Realismo",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/11.jpg",
             "paginas": "361",
             "editorial": "Lumen"
@@ -114,7 +114,7 @@
             "Autor": "Haruki Murakami",
             "titulo": "La muerte del comendador #2",
             "Genero": "Realismo Magico",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/12.jpg",
             "paginas": "361",
             "editorial": "TusQuets"
@@ -124,7 +124,7 @@
             "Autor": "Antoine de Saint-Exupéry",
             "titulo": "El Principito",
             "Genero": "Ninos",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/13.jpg",
             "paginas": "111",
             "editorial": "El País"
@@ -134,7 +134,7 @@
             "Autor": "Mario Vargas Llosa",
             "titulo": "Cinco esquinas",
             "Genero": "Novela",
-            "Estrellas": "3/5",
+            "Estrellas": "3",
             "imgSrc": "portada/14.jpg",
             "paginas": "313",
             "editorial": "De Bolsillo"
@@ -144,7 +144,7 @@
             "Autor": "Mark Twain ",
             "titulo": "Un yanqui en la corte del Rey Arturo",
             "Genero": "Novela",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/15.jpg",
             "paginas": "316",
             "editorial": "De Bolsillo"
@@ -154,7 +154,7 @@
             "Autor": "Olga Tokarczuk",
             "titulo": "Un lugar llamado Antaño",
             "Genero": "Novela",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/16.jpg",
             "paginas": "257",
             "editorial": "Anagrama"
@@ -164,7 +164,7 @@
             "Autor": "Suzanne Collins",
             "titulo": "Los juegos del hambre",
             "Genero": "Distopia",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/17.jpg",
             "paginas": "396",
             "editorial": "Del Nuevo Extremo"
@@ -174,7 +174,7 @@
             "Autor": "Suzanne Collins",
             "titulo": "En Llamas",
             "Genero": "Distopia",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/18.jpg",
             "paginas": "396",
             "editorial": "Del Nuevo Extremo"
@@ -184,7 +184,7 @@
             "Autor": "Suzanne Collins",
             "titulo": "Sinsajo",
             "Genero": "Distopia",
-            "Estrellas": "3/5",
+            "Estrellas": "3",
             "imgSrc": "portada/19.jpg",
             "paginas": "396",
             "editorial": "Del Nuevo Extremo"
@@ -194,7 +194,7 @@
             "Autor": "Stephen King",
             "titulo": "It",
             "Genero": "Terror",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/20.jpg",
             "paginas": "1502",
             "editorial": "De Bolsillo"
@@ -214,7 +214,7 @@
             "Autor": "Stephen King",
             "titulo": "Cementerio de animales",
             "Genero": "Horror",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/22.jpg",
             "paginas": "480",
             "editorial": "De Bolsillo"
@@ -244,7 +244,7 @@
             "Autor": "Stephen King",
             "titulo": "Resplandor",
             "Genero": "Horror",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/25.jpg",
             "paginas": "434",
             "editorial": "De Bolsillo"
@@ -254,7 +254,7 @@
             "Autor": "Jane Austen",
             "titulo": "Manfield Park",
             "Genero": "Historica",
-            "Estrellas": "3/5",
+            "Estrellas": "3",
             "imgSrc": "portada/26.jpg",
             "paginas": "563",
             "editorial": "Penguin"
@@ -264,7 +264,7 @@
             "Autor": "Gabriel Garcia Márquez",
             "titulo": "Cien años de soledad",
             "Genero": "Realismo Magico",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/27.jpg",
             "paginas": "563",
             "editorial": "De Bolsillo"
@@ -274,7 +274,7 @@
             "Autor": "G.Garcia Márquez",
             "titulo": "El amor en tiempos del cólera",
             "Genero": "Realismo Magico",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/28.jpg",
             "paginas": "399",
             "editorial": "Random House"
@@ -284,7 +284,7 @@
             "Autor": "René Descartes",
             "titulo": "Discurso del Metodo",
             "Genero": "Filosofía",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/29.jpg",
             "paginas": "154",
             "editorial": "Pinguin"
@@ -294,7 +294,7 @@
             "Autor": "Dalai Lama",
             "titulo": "Los siete pasos hacia el amor",
             "Genero": "Filosofía",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/30.jpg",
             "paginas": "189",
             "editorial": "De Bolsillo"
@@ -304,7 +304,7 @@
             "Autor": "Dalai Lama",
             "titulo": "La meditación paso a paso",
             "Genero": "Filosofía",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/31.jpg",
             "paginas": "201",
             "editorial": "De Bolsillo"
@@ -314,7 +314,7 @@
             "Autor": "Mario Vargas Llosa",
             "titulo": "Desafios a la libertad",
             "Genero": "Filosofía",
-            "Estrellas": "3.5/5",
+            "Estrellas": "3.5",
             "imgSrc": "portada/32.jpg",
             "paginas": "294",
             "editorial": "Alfaguara"
@@ -334,7 +334,7 @@
             "Autor": "Mario Vargas Llosa",
             "titulo": "Conversación en la catedral",
             "Genero": "Novela",
-            "Estrellas": "3.5/5",
+            "Estrellas": "3.5",
             "imgSrc": "portada/33.jpg",
             "paginas": "726",
             "editorial": "De bolsillo"
@@ -344,7 +344,7 @@
             "Autor": "Olga Tokarczuk",
             "titulo": "Los errantes",
             "Genero": "Novela",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/35.jpg",
             "paginas": "257***",
             "editorial": "Anagrama"
@@ -354,7 +354,7 @@
             "Autor": "Herman Melville",
             "titulo": "Moby Dick",
             "Genero": "Novela",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/36.jpg",
             "paginas": "736",
             "editorial": "Penguin"
@@ -364,7 +364,7 @@
             "Autor": "George Orwell",
             "titulo": "Los días de Birmania",
             "Genero": "Novela",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/37.jpg",
             "paginas": "321",
             "editorial": "De Bolsillo"
@@ -374,7 +374,7 @@
             "Autor": "Platón",
             "titulo": "La República",
             "Genero": "Filosofía",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/38.jpg",
             "paginas": "680",
             "editorial": "Alianza"
@@ -384,7 +384,7 @@
             "Autor": "Nietzsche",
             "titulo": "El AntiCristo",
             "Genero": "Filosofía",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/39.jpg",
             "paginas": "183",
             "editorial": "Alianza"
@@ -394,7 +394,7 @@
             "Autor": "Nietzsche",
             "titulo": "Mas allá del bien y del mal",
             "Genero": "Filosofía",
-            "Estrellas": "4/5",
+            "Estrellas": "4",
             "imgSrc": "portada/40.jpg",
             "paginas": "183",
             "editorial": "Alianza"
@@ -404,7 +404,7 @@
             "Autor": "Estanislao Bachrach",
             "titulo": "Ágil Mente",
             "Genero": "AutoAyuda",
-            "Estrellas": "3/5",
+            "Estrellas": "3",
             "imgSrc": "portada/42.jpg",
             "paginas": "386",
             "editorial": "Sudamericana"
@@ -414,7 +414,7 @@
             "Autor": "Estanislao Bachrach",
             "titulo": "En Cambio",
             "Genero": "AutoAyuda",
-            "Estrellas": "3/5",
+            "Estrellas": "3",
             "imgSrc": "portada/41.jpg",
             "paginas": "441",
             "editorial": "Sudamericana"
@@ -434,7 +434,7 @@
             "Autor": "Walter Isaacson",
             "titulo": "Steve Jobs",
             "Genero": "Biografía",
-            "Estrellas": "5/5",
+            "Estrellas": "5",
             "imgSrc": "portada/44.jpg",
             "paginas": "736",
             "editorial": "Debate"
@@ -444,7 +444,7 @@
             "Autor": "Franz Kafka",
             "titulo": "El proceso",
             "Genero": "Novela",
-            "Estrellas": "3.5/5",
+            "Estrellas": "3.5",
             "imgSrc": "portada/45.jpg",
             "paginas": "252",
             "editorial": "Plutón"
@@ -464,7 +464,7 @@
             "Autor": "Erich Fromm",
             "titulo": "El arte de amar",
             "Genero": "Filosofia",
-            "Estrellas": "3.5/5",
+            "Estrellas": "3.5",
             "imgSrc": "portada/47.jpg",
             "paginas": "207",
             "editorial": "Paidós"
@@ -474,7 +474,7 @@
             "Autor": "Depak Chopra",
             "titulo": "Las siete leyes espirituales del éxito",
             "Genero": "Filosofia",
-            "Estrellas": "3/5",
+            "Estrellas": "3",
             "imgSrc": "portada/48.jpg",
             "paginas": "207",
             "editorial": "Paidós"
@@ -485,7 +485,7 @@
         "Autor": "Paulo Coelho",
         "titulo": "El adquimista",
         "Genero": "Novela",
-        "Estrellas": "2.5/5",
+        "Estrellas": "2.5",
         "imgSrc": "portada/49.jpg",
         "paginas": "189",
         "editorial": "Planeta"
@@ -495,7 +495,7 @@
         "Autor": "La vida es como tú la hagas",
         "titulo": "Peter Buffett",
         "Genero": "Autoayuda",
-        "Estrellas": "3.5/5",
+        "Estrellas": "3.5",
         "imgSrc": "portada/50.jpg",
         "paginas": "189",
         "editorial": "Oceano"
@@ -505,7 +505,7 @@
         "Autor": "Borges Esencial",
         "titulo": "Jorge Luis Borges",
         "Genero": "Literatura",
-        "Estrellas": "4/5",
+        "Estrellas": "4",
         "imgSrc": "portada/51.jpg",
         "paginas": "636",
         "editorial": "Alfaguara"
@@ -515,7 +515,7 @@
         "Autor": "Borges Esencial",
         "titulo": "Jorge Luis Borges",
         "Genero": "Literatura",
-        "Estrellas": "4/5",
+        "Estrellas": "4",
         "imgSrc": "portada/51.jpg",
         "paginas": "636",
         "editorial": "Alfaguara"
@@ -545,7 +545,7 @@
         "Autor": "Pablo Vierci",
         "titulo": "La sociedad de la nieve",
         "Genero": "Biofrafía",
-        "Estrellas": "5/5",
+        "Estrellas": "5",
         "imgSrc": "portada/53.jpg",
         "paginas": "336",
         "editorial": "Sudamericana"
@@ -565,7 +565,7 @@
         "Autor": "Friedrich A.Hayek",
         "titulo": "Camino de Servidumbre",
         "Genero": "Filosofía",
-        "Estrellas": "4/5",
+        "Estrellas": "4",
         "imgSrc": "portada/57.jpg",
         "paginas": "357",
         "editorial": "Alianza"
@@ -585,7 +585,7 @@
         "Autor": "Daniel Fernández Strauch",
         "titulo": "Regreso a la Montana",
         "Genero": "AutoAyuda",
-        "Estrellas": "2.5/5",
+        "Estrellas": "2.5",
         "imgSrc": "portada/59.jpg",
         "paginas": "200",
         "editorial": "Ediciones B"
@@ -595,7 +595,7 @@
         "Autor": "Paul Ekman",
         "titulo": "Como detectar mentiras",
         "Genero": "Psicología",
-        "Estrellas": "3/5",
+        "Estrellas": "3",
         "imgSrc": "portada/57.jpg",
         "paginas": "400",
         "editorial": "Paidós"
@@ -615,7 +615,7 @@
         "Autor": "José Carlos Díez",
         "titulo": "La economía no da la felicidad",
         "Genero": "Economía",
-        "Estrellas": "3/5",
+        "Estrellas": "3",
         "imgSrc": "portada/61.jpg",
         "paginas": "218",
         "editorial": "Plaza Janés"
@@ -635,7 +635,7 @@
         "Autor": "J.M. Barrie",
         "titulo": "Peter y Wendy",
         "Genero": "Literatura",
-        "Estrellas": "2.5/5",
+        "Estrellas": "2.5",
         "imgSrc": "portada/63.jpg",
         "paginas": "218",
         "editorial": "Penguin"
