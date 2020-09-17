@@ -4,7 +4,7 @@
         "Autor": "Stieg Larsson",
         "titulo": "Los Hombres que no amaban a las mujeres",
         "Genero": "Novela Negra",
-        "Estrellas": "5/5",
+        "Estrellas": "5",
         "imgSrc": "portada/1.jpg",
         "paginas": "665",
         "editorial": "Destino"
@@ -161,7 +161,7 @@
         },
         {
             "id": "17",
-            "Autor": "Suzane Collins",
+            "Autor": "Suzanne Collins",
             "titulo": "Los juegos del hambre",
             "Genero": "Distopia",
             "Estrellas": "4/5",
@@ -171,7 +171,7 @@
         },
         {
             "id": "18",
-            "Autor": "Suzane Collins",
+            "Autor": "Suzanne Collins",
             "titulo": "En Llamas",
             "Genero": "Distopia",
             "Estrellas": "4/5",
@@ -181,7 +181,7 @@
         },
         {
             "id": "19",
-            "Autor": "Suzane Collins",
+            "Autor": "Suzanne Collins",
             "titulo": "Sinsajo",
             "Genero": "Distopia",
             "Estrellas": "3/5",
@@ -191,7 +191,7 @@
         },
         {
             "id": "20",
-            "Autor": "Sthepen King",
+            "Autor": "Stephen King",
             "titulo": "It",
             "Genero": "Terror",
             "Estrellas": "4/5",
@@ -201,7 +201,7 @@
         },
         {
             "id": "21",
-            "Autor": "Sthepen King",
+            "Autor": "Stephen King",
             "titulo": "22/11/63",
             "Genero": "Ciencia Ficción",
             "Estrellas": "-/5",
@@ -211,7 +211,7 @@
         },
         {
             "id": "22",
-            "Autor": "Sthepen King",
+            "Autor": "Stephen King",
             "titulo": "Cementerio de animales",
             "Genero": "Horror",
             "Estrellas": "4/5",
@@ -221,7 +221,7 @@
         },
         {
             "id": "23",
-            "Autor": "Sthepen King",
+            "Autor": "Stephen King",
             "titulo": "Cell",
             "Genero": "Horror",
             "Estrellas": "-/5",
@@ -231,7 +231,7 @@
         },
         {
             "id": "24",
-            "Autor": "Sthepen King",
+            "Autor": "Stephen King",
             "titulo": "revival",
             "Genero": "Horror",
             "Estrellas": "-/5",
@@ -241,7 +241,7 @@
         },
         {
             "id": "25",
-            "Autor": "Sthepen King",
+            "Autor": "Stephen King",
             "titulo": "Resplandor",
             "Genero": "Horror",
             "Estrellas": "5/5",
@@ -261,7 +261,7 @@
         },
         {
             "id": "27",
-            "Autor": "G.Garcia Márquez",
+            "Autor": "Gabriel Garcia Márquez",
             "titulo": "Cien años de soledad",
             "Genero": "Realismo Magico",
             "Estrellas": "4/5",
@@ -532,7 +532,7 @@
     },
     {
         "id": "53",
-        "Autor": "J.R.R.Tolkien",
+        "Autor": "J. R. R. Tolkien",
         "titulo": "El Silmarillon",
         "Genero": "Fantasía",
         "Estrellas": "-/5",
@@ -632,7 +632,7 @@
     },
     {
         "id": "63",
-        "Autor": "J.M.Barrie",
+        "Autor": "J.M. Barrie",
         "titulo": "Peter y Wendy",
         "Genero": "Literatura",
         "Estrellas": "2.5/5",
