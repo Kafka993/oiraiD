@@ -335,7 +335,7 @@
             "titulo": "Conversación en la catedral",
             "Genero": "Novela",
             "Estrellas": "3.5",
-            "imgSrc": "portada/33.jpg",
+            "imgSrc": "portada/34.jpg",
             "paginas": "726",
             "editorial": "De bolsillo"
         },
@@ -500,20 +500,11 @@
         "paginas": "189",
         "editorial": "Oceano"
     },
+    
     {
         "id": "51",
-        "Autor": "Borges Esencial",
-        "titulo": "Jorge Luis Borges",
-        "Genero": "Literatura",
-        "Estrellas": "4",
-        "imgSrc": "portada/51.jpg",
-        "paginas": "636",
-        "editorial": "Alfaguara"
-    },
-    {
-        "id": "51",
-        "Autor": "Borges Esencial",
-        "titulo": "Jorge Luis Borges",
+        "Autor": "Jorge Luis Borges",
+        "titulo": "Borges Esencial",
         "Genero": "Literatura",
         "Estrellas": "4",
         "imgSrc": "portada/51.jpg",
@@ -670,6 +661,35 @@
         "editorial": "Plutón ediciones"
 
 
+    },
+    {
+        "id": "67",
+        "Autor": "Vladimir Nabokov",
+        "titulo": "Lolita",
+        "Genero": "Literatura",
+        "Estrellas": "",
+        "imgSrc": "portada/67.jpg",
+        "paginas": "389",
+        "editorial": "Anagrama"
+    },
+    {
+        "id": "68",
+        "Autor": "F.Dostoievski",
+        "titulo": "Los hermanos Karamázov",
+        "Genero": "Literatura",
+        "Estrellas": "",
+        "imgSrc": "portada/68.jpg",
+        "paginas": "1130",
+        "editorial": "Penguin"
+    },{
+        "id": "69",
+        "Autor": "Delia Owens",
+        "titulo": "La chica salvaje",
+        "Genero": "Literatura",
+        "Estrellas": "",
+        "imgSrc": "portada/69.jpg",
+        "paginas": "376",
+        "editorial": "Ático de los libros"
     }
         
     ]

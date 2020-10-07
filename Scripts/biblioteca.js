@@ -15,15 +15,19 @@ function showLibros(array) {
         if (buscar == undefined || libro.titulo.toLowerCase().indexOf(buscar) !=-1 || libro.Autor.toLowerCase().indexOf(buscar) !=-1   ) {
 
     htmlContentToAppend += `
-    <div class="list-group-item list-group-item-action">
-    <div class="row row-cols-2">
+    <tr>
+    <td scope="row" ><img src='${libro.imgSrc}' width="150px" alt="" class="img-thumbnail"></td>
 
-    <div class="col-4"><h4 class="mb-4">`+ libro.titulo +`</h4></div>><br>
-    <div class="col-4"><h5 class="mb-4"> ${libro.Autor}</h5></div><br>
-<div class="col-3"><button style="float: right;" onclick="verLibro(`+ libro.id +`)"> Ver libro</button></div><br>
-                
-</div></div>
-`
+    <th>${libro.titulo}</th>
+
+    <td> ${libro.Autor}</td>
+
+    <td>${libro.paginas }</td>
+
+    <td>${libro.editorial}</td>
+  <td>  <button style="float: right;" onclick="verLibro(`+ libro.id +`)"> Ver libro</button></td>
+</tr>
+ `
     
 
     
