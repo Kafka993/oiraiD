@@ -1,5 +1,5 @@
 const LIBROS_URL = "https://kafka993.github.io/oiraiD/Scripts/librosj.json"
-const LIST_URL = "https://kafka993.github.io/oiraiD/Scripts/chessD.json"
+const LIST_URL = "https://kafka993.github.io/oiraiD/Scripts/list2020.json"
 
 var getJSONData = function (url) {
   var result = {};

@@ -54,14 +54,14 @@
     "id": "8",
     "Autor": "  Haruki Murakami",
     "titulo": "La muerte del comendador libro 1",
-    "imgSrc": "",
+    "imgSrc": "portada/10.jpg",
     "descripcion": "Este primer volumen de la novela La muerte del comendador es un fascinante laberinto donde lo cotidiano se ve invadido de señales indescifrables, de preguntas cuya respuesta todavía está lejos de vislumbrarse. El lector, al igual que el protagonista, deberá permanecer muy atento.",
     "Mes": "Febrero"
 },{
     "id": "9",
     "Autor": "  Haruki Murakami",
     "titulo": "La muerte del comendador libro 2",
-    "imgSrc": "",
+    "imgSrc": "portada/12.jpg",
     "descripcion": "En el primer volumen, dejamos al protagonista deseoso de saber qué se oculta detrás del cuadro titulado La muerte del comendador. También ha aprendido a convivir con los extraños personajes y objetos que lo envuelven desde que se instaló en la casa en las montañas.",
     "Mes": "Febrero"
 },{
@@ -83,49 +83,49 @@
     "Autor": " J.K. Rowling",
     "titulo": "Harry Potter y la piedra filosofal ",
     "imgSrc": "",
-    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "descripcion": "",
     "Mes": "Marzo"
 },{
     "id": "13",
     "Autor": " J.K. Rowling",
     "titulo": "Harry Potter y la Cámara de los secretos ",
     "imgSrc": "",
-    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "descripcion": "",
     "Mes": "Marzo"
 },{
     "id": "14",
     "Autor": " J.K. Rowling",
     "titulo": "Harry Potter y el prisionero de Azkaban ",
     "imgSrc": "",
-    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "descripcion": "",
     "Mes": "Abril"
 },{
     "id": "15",
     "Autor": " J.K. Rowling",
     "titulo": "Harry Potter y el cáliz de fuego",
     "imgSrc": "",
-    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "descripcion": ".",
     "Mes": "Abril"
 },{
     "id": "16",
     "Autor": " J.K. Rowling",
-    "titulo": "Harry Potter y la Orden del Fénix ",
+    "titulo": "Harry Potter y la Orden del Fénix",
     "imgSrc": "",
-    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "descripcion": ".",
     "Mes": "Abril"
 },{
     "id": "17",
     "Autor": " J.K. Rowling",
-    "titulo": "Harry Potter y  el misterio del príncipe ",
+    "titulo": "Harry Potter y  el misterio del príncipe",
     "imgSrc": "",
-    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "descripcion": ".",
     "Mes": "Abril"
 },{
     "id": "18",
     "Autor": " J.K. Rowling",
-    "titulo": "Harry Potter y las Reliquias de la Muerte ",
+    "titulo": "Harry Potter y las Reliquias de la Muerte",
     "imgSrc": "",
-    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "descripcion": "",
     "Mes": "Mayo"
 },{
     "id": "19",
