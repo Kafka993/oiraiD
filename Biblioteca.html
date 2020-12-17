@@ -6,45 +6,57 @@
     <title>Libros</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/estilo-fp.css"  rel="stylesheet" type="text/css">
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body>
+
+<body> 
     <nav class="site-header sticky-top py-1 bg-dark">
         <div class="container d-flex flex-column flex-md-row justify-content-between">
           <a class="navbar-brand" href="index.html">oiraiD Kafka </a>
-          <a class="py-2 d-none d-md-inline-block" href="Biblioteca.html">Biblioteca</a>
-          <a class="py-2 d-none d-md-inline-block" href="oiraiD.html"> oiraiD </a>
-          <a class="py-2 d-none d-md-inline-block" href="Peliculas.html"> Peliculas</a>
-          <a class="py-2 d-none d-md-inline-block" href="Frases.html">Frases</a>
-          <a class="py-2 d-none d-md-inline-block"href="Ajedrez.html"> Videojuegos</a>
+         <label > Buscar:  <input type="text" id="search">
+        <button class="btn btn-light active" id="clean">Limpiar Busqueda  </button>
           </div>
     </nav>
-
-    <div class="text-center p-4">
-            <h2>Biblioteca Kafka</h2>
-            <p class="lead"></p>
+ <!-- Navigation   
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">oiraiD Kafka</a>
+          <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="fa fa-bars"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="Biblioteca.html">Biblioteca</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/about">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/posts">Posts</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/contact">Contact</a>
+              </li>
+            </ul>
+          </div>
         </div>
-
-    <div><label class="btn btn-light active"> Buscar:  <input type="text" id="search"> 
-        <button id="clean">Limpiar Busqueda  </button>
+      </nav><br><hr>
+       -->
+      
+        
+    <div class="container">
+        <div class="row" id="listado">
+       
+          
+        
+      </div>
     </div>
-    <table>
-    <thead>
-        <tr>
-          <th scope="col">Imagen</th>
-          <th scope="col">Titulo</th>
-          <th scope="col">Autor</th>
-          <th scope="col">Paginas</th>
-          <th scope="col">Editorial </th>
-        </tr>
-      </thead>
-      <tbody id="listado"> </tbody>
-<tfoot>
+     
+
     
-</tfoot>
-    </table>
-    
-    
+</div>
     <script src="Scripts/init.js"></script>
     <script src="Scripts/jquery-3.4.1.min.js"></script>
     <script src="Scripts/bootstrap.bundle.min.js"></script>

@@ -11,11 +11,7 @@
         <nav class="site-header sticky-top py-1 bg-dark">
           <div class="container d-flex flex-column flex-md-row justify-content-between">
             <a class="navbar-brand" href="index.html">oiraiD Kafka </a>
-            <a class="py-2 d-none d-md-inline-block" href="Biblioteca.html">Biblioteca</a>
-            <a class="py-2 d-none d-md-inline-block" href="oiraiD.html"> oiraiD </a>
-            <a class="py-2 d-none d-md-inline-block" href="Peliculas.html"> Peliculas</a>
-            <a class="py-2 d-none d-md-inline-block" href="Frases.html">Frases</a>
-            <a class="py-2 d-none d-md-inline-block"href="Ajedrez.html"> Videojuegos</a>
+           
             </div>
         </nav>
 
@@ -23,11 +19,38 @@
 
     <br>
     <br>
-        <img src=portada/es.png alt="Libro" >
+        <img src=portada/es.png alt="Libro" width="400px">
+        <h2>Lecturas 2020</h2>
+        <div class="list-group" id="list2020">
+          
+          <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+              <h5 class="mb-1">List group item heading</h5>
+              <small class="text-muted">3 days ago</small>
+            </div>
+            <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+            <small class="text-muted">Donec id elit non mi porta.</small>
+          </a>
+          <a href="#" class="list-group-item list-group-item-action flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+              <h5 class="mb-1">List group item heading</h5>
+              <small class="text-muted">3 days ago</small>
+            </div>
+            <p class="mb-1">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p>
+            <small class="text-muted">Donec id elit non mi porta.</small>
+          </a>
+        </div>
+       
+       <div>
         <iframe src="https://open.spotify.com/embed/playlist/5XzuJcW7kr0Q83TNpSLlPI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
         <br>
     <br>
-    <script src="https://sdk.scdn.co/spotify-player.js"></script>
+  </div> 
+  <script src="Scripts/init.js"></script>
+  <script src="Scripts/jquery-3.4.1.min.js"></script>
+  <script src="Scripts/bootstrap.bundle.min.js"></script>
+  <script src="Scripts/list2020.js"></script>
+  <script src="https://sdk.scdn.co/spotify-player.js"></script>
     <script>
         window.onSpotifyWebPlaybackSDKReady = () => {
           const token = '[BQDZsGRzLLFzANflsrVoTgfO22SrrNCwhqN2Yoc5D18ad_v0hKxUQI89mCuaN_NRzgrETRjKmJeGJwsCc6AqzEaYnPRZei3rLk1gEBdSDJ56ujxQmZddf1Ol49w3LRVQ2TZ3cvKP0MZQu8mUCOLRES88sBdTd2uGim1qqWK3hr_YC6igJQ8]';

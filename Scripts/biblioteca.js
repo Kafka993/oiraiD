@@ -15,18 +15,24 @@ function showLibros(array) {
         if (buscar == undefined || libro.titulo.toLowerCase().indexOf(buscar) !=-1 || libro.Autor.toLowerCase().indexOf(buscar) !=-1   ) {
 
     htmlContentToAppend += `
-    <tr>
-    <td scope="row" ><img src='${libro.imgSrc}' width="150px" alt="" class="img-thumbnail"></td>
+ 
+<div class="col-sm-2"> 
+<div class="card" style="height: 450px; background-color: #eee;">                    
+<img src="${libro.imgSrc}" alt="" width="150px">
+        <div class="card-body" >
+                    <h5 class="card-title">${libro.titulo}</h5>
+                    <p class="card-text">${libro.Autor} </p>
+                    <button   class="btn btn-dark" onclick="verLibro(`+ libro.id +`)"> Ver libro</button>
+                    
+                  </div>
+                 </div>
+            </div>
 
-    <th>${libro.titulo}</th>
 
-    <td> ${libro.Autor}</td>
 
-    <td>${libro.paginas }</td>
 
-    <td>${libro.editorial}</td>
-  <td>  <button style="float: right;" onclick="verLibro(`+ libro.id +`)"> Ver libro</button></td>
-</tr>
+
+
  `
     
 

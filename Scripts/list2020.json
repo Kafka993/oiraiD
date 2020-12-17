@@ -1,0 +1,244 @@
+[
+{
+    "id": "1",
+    "Autor": " Becca Fitzpatrick",
+    "titulo": "Hush, hush",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Enero"
+},
+{
+    "id": "2",
+    "Autor": " Philip K. Dick",
+    "titulo": "¿Sueñan los androides con ovejas eléctricas?",
+    "imgSrc": "",
+    "descripcion": "Tras la guerra nuclear, la Tierra ha quedado sometida bajo una gran nube de polvo radioactivo. La gente ha emigrado a otros planetas del sistema y se ha llevado a androides que les asisten. Algunos de estos han escapado de la servidumbre y han vuelto ilegalmente a la Tierra. Y Rick Deckard, cazador de bonifi caciones, es uno de los encargados de acabar con ellos. Pero, ¿es justo matar a los humanoides sólo por el hecho de serlo? ¿Cuál es el límite entre la vida artificial y la natural?",
+    "Mes": "Enero"
+},
+{
+    "id": "3",
+    "Autor": "Han Kang",
+    "titulo": "La vegetariana",
+    "imgSrc": "",
+    "descripcion": "La vegetariana relata la historia de una mujer corriente, Yeonghye, que por la simple decisión de no volver a comer carne convierte una vida normal en una perturbadora pesadilla. Narrada a tres voces, La vegetariana cuenta el desprendimiento progresivo de la condición humana de una mujer que ha decidido dejar de ser aquello que le obligan a ser. El lector, como un pariente más, asiste atónito a ese acto subversivo que fracturará la vida familiar de la protagonista y transformará todas sus relaciones cotidianas en un vórtice de violencia, vergüenza y deseo.",
+    "Mes": "Enero"
+},{
+    "id": "4",
+    "Autor": " Natsume Sōseki",
+    "titulo": "El minero",
+    "imgSrc": "",
+    "descripcion": "La tempestuosa vida romántica de un joven de buena familia hace que tome la decisión de abandonar la comodidad del hogar para después poner fin a su vida de una manera heroica. Durante su trayecto un anciano con el que entabla conversación le convencerá de que su siguiente paso ha de ser entrar a trabajar en una mina. El joven ve en esa senda, una suerte de muerte en vida, la opción que igualará su cuerpo a su torturado interior. Escoltado por dos peculiares compañeros de viaje, el protagonista emprenderá un arduo camino que supondrá una ruptura radical con toda su vida anterior. Con el delicado paisaje japonés de fondo, las reflexiones del muchacho sobre su propia identidad, sobre la versatilidad del carácter humano y sobre la sociedad que le rodea supondrán para él la piedra de toque que le hará entrar en la edad adulta.",
+    "Mes": "Enero"
+},{
+    "id": "5",
+    "Autor": "  Alice Kellen",
+    "titulo": "Todo lo que nunca fuimos ",
+    "imgSrc": "",
+    "descripcion": "Porque a veces basta con un deja que ocurra para arriesgarlo todo Leah está rota. Leah ya no pinta. Leah es un espejismo desde el accidente que se llevó a sus padres. Axel es el mejor amigo de su hermano mayor y, cuando accede a acogerla en su casa durante unos meses, quiere ayudarla a encontrar y unir los pedazos de la chica llena de color que un día fue. Pero no sabe que ella siempre ha estado enamorada de él, a pesar de que sean casi familia, ni de que toda su vida está a punto de cambiar. Porque ella está prohibida, pero le despierta la piel. Porque es el mar, noches estrelladas y vinilos de los Beatles. Porque a veces basta un «deja que ocurra» para tenerlo todo.",
+    "Mes": "Enero"
+},{
+    "id": "6",
+    "Autor": "El enemigo conoce el sistema",
+    "titulo": "Marta Peirano",
+    "imgSrc": "",
+    "descripcion": "Este libro te ayudará a conocerlo, y a comprender por qué la herramienta más democratizadora de la historia se ha convertido en una máquina de vigilancia y manipulación de masas al servicio de regímenes autoritarios. Solo así podremos convertirla en lo que más falta nos hace: una herramienta para gestionar la crisis que se avecina de la manera más humana posible. No tenemos un segundo que perder.",
+    "Mes": "Enero"
+},{
+    "id": "7",
+    "Autor": " Andre Agassi",
+    "titulo": "Open: memorias ",
+    "imgSrc": "",
+    "descripcion": "«Odio el tenis, lo detesto con una oscura y secreta pasión, y sin embargo sigo jugando porque no tengo alternativa. Y ese abismo, esa contradicción entre lo que quiero hacer y lo que de hecho hago, es la esencia de mi vida.» Andre Agassi.",
+    "Mes": "Febrero"
+},{
+    "id": "8",
+    "Autor": "  Haruki Murakami",
+    "titulo": "La muerte del comendador libro 1",
+    "imgSrc": "",
+    "descripcion": "Este primer volumen de la novela La muerte del comendador es un fascinante laberinto donde lo cotidiano se ve invadido de señales indescifrables, de preguntas cuya respuesta todavía está lejos de vislumbrarse. El lector, al igual que el protagonista, deberá permanecer muy atento.",
+    "Mes": "Febrero"
+},{
+    "id": "9",
+    "Autor": "  Haruki Murakami",
+    "titulo": "La muerte del comendador libro 2",
+    "imgSrc": "",
+    "descripcion": "En el primer volumen, dejamos al protagonista deseoso de saber qué se oculta detrás del cuadro titulado La muerte del comendador. También ha aprendido a convivir con los extraños personajes y objetos que lo envuelven desde que se instaló en la casa en las montañas.",
+    "Mes": "Febrero"
+},{
+    "id": "10",
+    "Autor": " Mark Manson",
+    "titulo": "El sutil arte de que te importe un caraj*: Un enfoque disruptivo para vivir una buena vida ",
+    "imgSrc": "",
+    "descripcion": "Manson nos recuerda que los seres humanos somos falibles y limitados: <<no todos podemos ser extraordinarios: hay ganadores y perdedores en la sociedad, y esto no siempre es justo o es tu culpa>>. Manson nos aconseja que reconozcamos nuestras limitaciones y las aceptemos. Esto es, según él, el verdadero origen del empoderamiento. Una vez que abrazamos nuestros temores, faltas e incertidumbres, una vez que dejamos de huir y evadir y empezamos a confrontar las verdades dolorosas, podemos comenzar a encontrar el valor, la perseverancia, la honestidad, la responsabilidad, la curiosidad y el perdón que buscamos..",
+    "Mes": "Febrero"
+},{
+    "id": "11",
+    "Autor": " Albert Camus",
+    "titulo": "El extranjero ",
+    "imgSrc": "",
+    "descripcion": "Guía moral e intelectual de la generación llegada a la madurez entre las ruinas, la frustración y la desesperanza de la Europa de postguerra, Albert Camus (1913-1960) saltó a la fama con la publicación, en 1942, de El extranjero. La novela -lúcida descripción de la carencia de valores del mundo contemporáneo- tiene como referencia omnipresente a Meursault, su protagonista, a quien una serie de circunstancias conduce a cometer un crimen aparentemente inmotivado; su muerte en el patíbulo no tendrá más sentido que su vida, corroída por la cotidianidad y gobernada por fuerzas anónimas que, al despojar a los hombres de la condición de sujetos autónomos, les eximen también de responsabilidad y de culpa",
+    "Mes": "Marzo"
+},{
+    "id": "12",
+    "Autor": " J.K. Rowling",
+    "titulo": "Harry Potter y la piedra filosofal ",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Marzo"
+},{
+    "id": "13",
+    "Autor": " J.K. Rowling",
+    "titulo": "Harry Potter y la Cámara de los secretos ",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Marzo"
+},{
+    "id": "14",
+    "Autor": " J.K. Rowling",
+    "titulo": "Harry Potter y el prisionero de Azkaban ",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Abril"
+},{
+    "id": "15",
+    "Autor": " J.K. Rowling",
+    "titulo": "Harry Potter y el cáliz de fuego",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Abril"
+},{
+    "id": "16",
+    "Autor": " J.K. Rowling",
+    "titulo": "Harry Potter y la Orden del Fénix ",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Abril"
+},{
+    "id": "17",
+    "Autor": " J.K. Rowling",
+    "titulo": "Harry Potter y  el misterio del príncipe ",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Abril"
+},{
+    "id": "18",
+    "Autor": " J.K. Rowling",
+    "titulo": "Harry Potter y las Reliquias de la Muerte ",
+    "imgSrc": "",
+    "descripcion": "Un juramento sagrado, un ángel caído, un amor prohibido.",
+    "Mes": "Mayo"
+},{
+    "id": "19",
+    "Autor": " Camille Paglia",
+    "titulo": "Feminismo pasado y presente ",
+    "imgSrc": "",
+    "descripcion": "Camille Paglia es la feminista maldita, la que dice cosas que nadie desea oír. Como que si una broma nos ofende, hay que responder con otra. Que las mujeres, si quieren ser iguales a los hombres, no deben recibir una protección especial. Y que el gusto por la belleza no siempre oculta machismo.",
+    "Mes": "Mayo"
+},{
+    "id": "20",
+    "Autor": " Axel Kaiser",
+    "titulo": "La Tiranía de la igualdad",
+    "imgSrc": "",
+    "descripcion": "En La Tiranía de la Igualdad, el lector encontrará un trabajo transgresor, que cuestiona radicalmente el paradigma igualitarista sobre el que ha girado la discusión pública chilena en la última década.",
+    "Mes": "Junio"
+},{
+    "id": "21",
+    "Autor": " Miguel Ruiz,",
+    "titulo": "Los cuatro acuerdos ",
+    "imgSrc": "",
+    "descripcion": "Una guía práctica para la libertad personal El conocimiento tolteca surge de la misma unidad esencial de la verdad de la que parten todas las tradiciones esotéricas sagradas del mundo. Aunque no es una religión, respeta a todos los maestros espirituales que han enseñado en la tierra, y si bien abraza el espíritu, resulta más preciso describirlo como una manera de vivir que se distingue por su fácil acceso a la felicidad y el amor. El doctor Miguel Ruiz nos propone en este libro un sencillo procedimiento para eliminar todas aquellas creencias heredadas que nos limitan y substituirlas por otras que responden a nuestra realidad interior y nos conducen a la libertad.",
+    "Mes": "Junio"
+},{
+    "id": "22",
+    "Autor": " Pedro Mairal  ",
+    "titulo": "La uruguaya",
+    "imgSrc": "",
+    "descripcion": "Como en los sueños, en Montevideo las cosas me resultaban parecidas pero diferentes. Eran pero no eran. Lucas Pereyra viaja a Uruguay en barco por el día a buscar dólares. Son tiempos de restricciones cambiarias. Tiene ya arreglado un encuentro secreto en Montevideo, pero sus planes pueden fallar. Encandilado por el recuerdo de un verano anterior y agobiado por un matrimonio que se resquebraja, sueña con escaparse y no volver. ¿Con quién se va a encontrar? Montevideo, esa ciudad idealizada por la distancia, se volverá impredecible. La uruguaya es una novela inquietante y ferozmente entretenida. Con pulso magistral, Pedro Mairal sostiene la intriga en cada una de sus páginas y demuestra, de modo irrefutable, que es uno de los grandes de la literatura argentina contemporánea.",
+    "Mes": "Julio"
+},{
+    "id": "23",
+    "Autor": " Mario Vargas Llosa",
+    "titulo": "Conversación en La Catedral ",
+    "imgSrc": "",
+    "descripcion": "Zavalita y el zambo Ambrosio conversan en La Catedral. Estamos en Perú, después del ochenio dictatorial del general Manuel A. Odría. Unas cuantas cervezas y un río de palabras en libertad para responder a la palabra amordazada por la dictadura. Los personajes, las historias que éstos cuentan, los fragmentos que van encajando, conforman la descripción minuciosa de un envilecimiento colectivo que se gestó en esa dictadura, el repaso de todos los caminos que hacen desembocar a un pueblo entero en la frustración.",
+    "Mes": "Julio"
+},{
+    "id": "24",
+    "Autor": " Gabriel García Márquez",
+    "titulo": "El amor en los tiempos del cólera ",
+    "imgSrc": "",
+    "descripcion": "De jóvenes, Florentino Ariza y Fermina Daza se enamoran apasionadamente, pero Fermina eventualmente decide casarse con un médico rico y de muy buena familia. Florentino está anonadado, pero es un romántico. Su carrera en los negocios florece, y aunque sostiene 622 pequeños romances, su corazón todavía pertenece a Fermina. Cuando al fin el esposo de ella muere, Florentino acude al funeral con toda intención. A los cincuenta años, nueve meses y cuatro días de haberle profesado amor a Fermina, lo hará una vez más",
+    "Mes": "Julio"
+},{
+    "id": "25",
+    "Autor": " George Orwell",
+    "titulo": "Los días de Birmania ",
+    "imgSrc": "",
+    "descripcion": "George Orwell nació en la India en 1903, pero con solo un año de edad se trasladó con su madre y sus hermanos a Inglaterra. No volvió al continente asiático hasta cumplir los diecinueve años, para formar parte de la policía colonial de Birmania. Esta novela -la primera del genial escritor- es el fruto de aquellos años",
+    "Mes": "Agosto"
+},{
+    "id": "26",
+    "Autor": "Virginie Despentes",
+    "titulo": "Teoría King Kong ",
+    "imgSrc": "",
+    "descripcion": "Teoría King Kong es uno de los grandes libros de referencia del feminismo y de la teoría de género, un incisivo ensayo en el que Despentes comparte su propia experiencia para hablarnos sin tapujos ni concesiones sobre la prostitución, la violación, la represión del deseo, la maternidad y la pornografía, y para contribuir al derrumbe de los cimientos patriarcales de la sociedad actual. «Escribo desde la fealdad, y para las feas, las viejas, las camioneras, las frígidas, las mal folladas, las infollables, todas las excluidas del gran mercado de la buena chica, pero también para los hombres que no tienen ganas de proteger, para los que querrían hacerlo pero no saben cómo, los que no son ambiciosos, ni competitivos, ni la tienen grande. Porque el ideal de la mujer blanca, seductora, que nos ponen delante de los ojos es posible incluso que no exista.»",
+    "Mes": "Agosto"
+},{
+    "id": "27",
+    "Autor": "Stephen King",
+    "titulo": "Cementerio de animales ",
+    "imgSrc": "",
+    "descripcion": "Un hermoso día de agosto, el doctor Louis Creed llega con su esposa Rachel, sus hijos Eileen y Gage y el gato Church a su nuevo hogar, una gran casa situada en las afueras de Ludlow, Nueva Inglaterra. El lugar parece tranquilo y lo bastante alejado del ajetreo urbano. Detrás de la casa de los Creed hay incluso un campo de enterramientos, en donde los niños del lugar han sepultado a sus animales durante generaciones: el Cementerio de animales. Pero enseguida empieza la pesadilla... al menos para Louis. En su primer día de trabajo en el centro médico de la Universidad de Maine, le llevan el cuerpo horriblemente mutilado del estudiante Victor Pascow. El joven trata de advertir al doctor Creed acerca del lugar situado detrás del Cementerio de animales, usado en tiempos antiguos por los indios MicMac e impregnado de un espíritu diabólico. El gato Church muere atropellado por un camión y Judd Crandall, un anciano vecino, persuade a Louis para que entierre al animalito en el cementerio de animales. Con ello, el doctor invoca fuerzas ocultas que es mejor no perturbar, y cuando la tragedia hiere a la familia Creed, Louis se embarca en una terrorífica aventura con consecuencias que van más allá de la comprensión humana... o de la cordura.",
+    "Mes": "Setiembre"
+},{
+    "id": "28",
+    "Autor": " Olga Tokarczuk",
+    "titulo": "Un lugar llamado Antaño ",
+    "imgSrc": "",
+    "descripcion": "Olga Tokarczuk, la mejor escritora polaca de su generación, cuenta en esta novela una historia épica sobre el paso del tiempo. Desde el estallido de la primera guerra mundial, varias generaciones de campesinos luchan por la felicidad en un lugar llamado Antaño, un pueblo ficticio de Polonia donde realidad y magia se confunden para crear uno de los universos literarios más bellos y sobrecogedores de los últimos tiempos. Los horrores y las ilusiones de felicidad del siglo XX son encarnados aquí por unos personajes inolvidables que transitan entre el sueño y la realidad, el misticismo y el horror.",
+    "Mes": "Setiembre"
+},{
+    "id": "29",
+    "Autor": "J.M.Barrie",
+    "titulo": "Peter Y Wendy",
+    "imgSrc": "",
+    "descripcion": "",
+    "Mes": "Octubre"
+},
+{
+    "id": "29",
+    "Autor": "J.M.Barrie",
+    "titulo": "Peter Y Wendy",
+    "imgSrc": "",
+    "descripcion": "",
+    "Mes": "Octubre"
+},{
+    "id": "33",
+    "Autor": "Joseph Conrad",
+    "titulo": "El corazón de las tinieblas ",
+    "imgSrc": "",
+    "descripcion": "Escrita en forma de un largo monólogo, El corazón de las tinieblas es a la vez una sátira de los abusos de la colonización europea en el corazón del África negra y una alegoría moral de la degradación del ser humano ante las fuerzas corruptoras de la naturaleza salvaje. Símbolo de esta degradación, que sumirá a una mente brillante en las tinieblas de la locura, es el agente Kurtz (el coronel Kurtz, interpretado por Marlon Brando en la película Apocalypse Now de Francis Ford Coppola, basada en esta novela), cuyo deseo insaciable de riqueza y de poder le llevará a arrastrar impávido el horror y la abominación de una barbarie ancestral. Una travesía frenética en el corazón de un continente hostil y devastado, donde la oposición entre civilización y barbarie adoptará sus formas más funestas y destructivas",
+    "Mes": "Octubre"
+},{
+    "id": "31",
+    "Autor": "Delia Owens ",
+    "titulo": "La chica salvaje ",
+    "imgSrc": "",
+    "descripcion": "La chica salvaje es la novela conmovedora de una infancia marcada por el abandono y de una naturaleza que se revela como una madre, no como una madrastra. Pero también es la historia de un secreto celosamente guardado que cuestiona los límites entre la verdad y la mentira, el bien y el mal.",
+    "Mes": "Noviembre"
+},{
+    "id": "32",
+    "Autor": "William Golding",
+    "titulo": "El señor de las moscas  ",
+    "imgSrc": "",
+    "descripcion": "Fábula moral acerca de la condición humana, EL SEÑOR DE LAS MOSCAS es además un prodigioso relato literario susceptible de lecturas diversas y aun opuestas. Si para unos la parábola que WILLIAM GOLDING estructura en torno a la situación límite de una treintena de muchachos solos en una isla desierta representa una ilustración de las tesis que sitúan la agresividad criminal entre los instintos básicos del hombre, para otros constituye una requisitoria moral contra una educación represiva que no hace sino preparar futuras explosiones de barbarie cuando los controles se relajan",
+    "Mes": "Noviembre"
+},{
+    "id": "34",
+    "Autor": " Brandon Sanderson",
+    "titulo": "Escuadrón",
+    "imgSrc": "",
+    "descripcion": "El mundo lleva siglos en guerra; la humanidad está atrapada en un planeta constantemente atacado por unos alienígenas decididos a destruirla. Los pilotos son los únicos héroes dispuestos a combatir el enemigo. Spensa es una joven que siempre ha soñado convertirse en piloto y defender a la Tierra. Pero su destino se cruza con el de su padre, un piloto que fue asesinado tras abandonar a su equipo, anulando sus opciones de asistir a la escuela de vuelo. De pronto, el ataque alienígena ha hecho duplicar la flota aérea de los humanos, facilitando que Spensa ahora sí pueda volar al espacio…",
+    "Mes": "Diciembre"
+}
+]
