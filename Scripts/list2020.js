@@ -7,9 +7,10 @@ function verLibro(id) {
     for (let i = 0; i < array.length; i++) {
         let list = array[i];
 
-htmlContentToAppend += `<img src="${list.imgSrc}"class="img-thumbnail">
+htmlContentToAppend += `
 <a  onclick=${list.id} class="list-group-item list-group-item-action flex-column align-items-start">
-            <div class="d-flex w-100 justify-content-between">
+<img src="${list.imgSrc}"class="img-thumbnail" width="100px">            
+<div class="d-flex w-100 justify-content-between">
               <h5 class="mb-1">${list.titulo}</h5>
               <small>${list.Mes}</small>
             </div>

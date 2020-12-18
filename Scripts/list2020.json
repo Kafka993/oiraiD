@@ -159,21 +159,21 @@
     "id": "23",
     "Autor": " Mario Vargas Llosa",
     "titulo": "Conversación en La Catedral ",
-    "imgSrc": "",
+    "imgSrc": "portada/34.jpg",
     "descripcion": "Zavalita y el zambo Ambrosio conversan en La Catedral. Estamos en Perú, después del ochenio dictatorial del general Manuel A. Odría. Unas cuantas cervezas y un río de palabras en libertad para responder a la palabra amordazada por la dictadura. Los personajes, las historias que éstos cuentan, los fragmentos que van encajando, conforman la descripción minuciosa de un envilecimiento colectivo que se gestó en esa dictadura, el repaso de todos los caminos que hacen desembocar a un pueblo entero en la frustración.",
     "Mes": "Julio"
 },{
     "id": "24",
     "Autor": " Gabriel García Márquez",
     "titulo": "El amor en los tiempos del cólera ",
-    "imgSrc": "",
+    "imgSrc": "portada/28.jpg",
     "descripcion": "De jóvenes, Florentino Ariza y Fermina Daza se enamoran apasionadamente, pero Fermina eventualmente decide casarse con un médico rico y de muy buena familia. Florentino está anonadado, pero es un romántico. Su carrera en los negocios florece, y aunque sostiene 622 pequeños romances, su corazón todavía pertenece a Fermina. Cuando al fin el esposo de ella muere, Florentino acude al funeral con toda intención. A los cincuenta años, nueve meses y cuatro días de haberle profesado amor a Fermina, lo hará una vez más",
     "Mes": "Julio"
 },{
     "id": "25",
     "Autor": " George Orwell",
     "titulo": "Los días de Birmania ",
-    "imgSrc": "",
+    "imgSrc": "portada/37.jpg",
     "descripcion": "George Orwell nació en la India en 1903, pero con solo un año de edad se trasladó con su madre y sus hermanos a Inglaterra. No volvió al continente asiático hasta cumplir los diecinueve años, para formar parte de la policía colonial de Birmania. Esta novela -la primera del genial escritor- es el fruto de aquellos años",
     "Mes": "Agosto"
 },{
@@ -187,43 +187,36 @@
     "id": "27",
     "Autor": "Stephen King",
     "titulo": "Cementerio de animales ",
-    "imgSrc": "",
+    "imgSrc": "portada/22.jpg",
     "descripcion": "Un hermoso día de agosto, el doctor Louis Creed llega con su esposa Rachel, sus hijos Eileen y Gage y el gato Church a su nuevo hogar, una gran casa situada en las afueras de Ludlow, Nueva Inglaterra. El lugar parece tranquilo y lo bastante alejado del ajetreo urbano. Detrás de la casa de los Creed hay incluso un campo de enterramientos, en donde los niños del lugar han sepultado a sus animales durante generaciones: el Cementerio de animales. Pero enseguida empieza la pesadilla... al menos para Louis. En su primer día de trabajo en el centro médico de la Universidad de Maine, le llevan el cuerpo horriblemente mutilado del estudiante Victor Pascow. El joven trata de advertir al doctor Creed acerca del lugar situado detrás del Cementerio de animales, usado en tiempos antiguos por los indios MicMac e impregnado de un espíritu diabólico. El gato Church muere atropellado por un camión y Judd Crandall, un anciano vecino, persuade a Louis para que entierre al animalito en el cementerio de animales. Con ello, el doctor invoca fuerzas ocultas que es mejor no perturbar, y cuando la tragedia hiere a la familia Creed, Louis se embarca en una terrorífica aventura con consecuencias que van más allá de la comprensión humana... o de la cordura.",
     "Mes": "Setiembre"
 },{
     "id": "28",
     "Autor": " Olga Tokarczuk",
     "titulo": "Un lugar llamado Antaño ",
-    "imgSrc": "",
+    "imgSrc": "portada/16.jpg",
     "descripcion": "Olga Tokarczuk, la mejor escritora polaca de su generación, cuenta en esta novela una historia épica sobre el paso del tiempo. Desde el estallido de la primera guerra mundial, varias generaciones de campesinos luchan por la felicidad en un lugar llamado Antaño, un pueblo ficticio de Polonia donde realidad y magia se confunden para crear uno de los universos literarios más bellos y sobrecogedores de los últimos tiempos. Los horrores y las ilusiones de felicidad del siglo XX son encarnados aquí por unos personajes inolvidables que transitan entre el sueño y la realidad, el misticismo y el horror.",
     "Mes": "Setiembre"
 },{
     "id": "29",
     "Autor": "J.M.Barrie",
     "titulo": "Peter Y Wendy",
-    "imgSrc": "",
+    "imgSrc": "portada/63.jpg",
     "descripcion": "",
     "Mes": "Octubre"
 },
 {
-    "id": "29",
-    "Autor": "J.M.Barrie",
-    "titulo": "Peter Y Wendy",
-    "imgSrc": "",
-    "descripcion": "",
-    "Mes": "Octubre"
-},{
     "id": "33",
     "Autor": "Joseph Conrad",
     "titulo": "El corazón de las tinieblas ",
-    "imgSrc": "",
+    "imgSrc": "portada/62.jpg",
     "descripcion": "Escrita en forma de un largo monólogo, El corazón de las tinieblas es a la vez una sátira de los abusos de la colonización europea en el corazón del África negra y una alegoría moral de la degradación del ser humano ante las fuerzas corruptoras de la naturaleza salvaje. Símbolo de esta degradación, que sumirá a una mente brillante en las tinieblas de la locura, es el agente Kurtz (el coronel Kurtz, interpretado por Marlon Brando en la película Apocalypse Now de Francis Ford Coppola, basada en esta novela), cuyo deseo insaciable de riqueza y de poder le llevará a arrastrar impávido el horror y la abominación de una barbarie ancestral. Una travesía frenética en el corazón de un continente hostil y devastado, donde la oposición entre civilización y barbarie adoptará sus formas más funestas y destructivas",
     "Mes": "Octubre"
 },{
     "id": "31",
     "Autor": "Delia Owens ",
     "titulo": "La chica salvaje ",
-    "imgSrc": "",
+    "imgSrc": "portada/69.jpg",
     "descripcion": "La chica salvaje es la novela conmovedora de una infancia marcada por el abandono y de una naturaleza que se revela como una madre, no como una madrastra. Pero también es la historia de un secreto celosamente guardado que cuestiona los límites entre la verdad y la mentira, el bien y el mal.",
     "Mes": "Noviembre"
 },{
